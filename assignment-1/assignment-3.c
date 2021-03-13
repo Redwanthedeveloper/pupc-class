@@ -10,7 +10,7 @@ int main()
     return 0;
 }
 
-int ReportCard(a, b, c)
+int ReportCard()
 {
     int i;
     for(i=1; i<=5; i++)
